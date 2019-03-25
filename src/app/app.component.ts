@@ -8,7 +8,7 @@ import { Component } from "@angular/core";
       <div class="card bg-light mb-3">
         <div class="card-body">
           <p class="card-text">
-            Gues the computer generated random number between 1 and 1000.
+            Guess the computer generated random number between 1 and 1000.
           </p>
         </div>
       </div>
